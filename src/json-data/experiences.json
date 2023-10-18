@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "company": "Figma",
+    "role": "Software Engineering Intern, Collaboration",
+    "desc": [
+      "Enhance user experience by integrating support for attaching media files across Figma’s commenting features",
+      "Create Ruby endpoints to save media in S3, store keys in our database and display real-time updates to users"
+    ],
+    "dates": "May 2023 - August 2023\nSan Francisco, CA",
+    "img": "assets/experiences/figma.png"
+  },
+  {
+    "id": 2,
+    "company": "Lyft",
+    "role": "Software Engineer Intern, Competitve Intelligence",
+    "desc": [
+      "Collaborated with the Competitive Intelligence team to collect and analyze pricing and ETA data",
+      "Implemented a supporting pipeline that re-transcribes failed tasks during Lyft’s off-hours and ensure data accuracy",
+      "Utilized Python and SQL to create endpoints that seamlessly transfers data from an S3 bucket to our project"
+    ],
+    "dates": "Sept 2022 - Nov 2022\nNew York City, NY",
+    "img": "assets/experiences/lyft-logo.png"
+  },
+  {
+    "id": 3,
+    "company": "Google",
+    "role": "Software Engineering Intern, Google Hotels",
+    "desc": [
+      "Unified and expanded the use of the save feature in Google Hotels, reaching 16 million daily signed out users",
+      "Designed experiments that enable features to an small subset of users and measure their impact",
+      "Collaborated with UX, PM, Privacy, and other software engineers to ensure proper functionality and logic"
+    ],
+    "dates": "January 2023-April 2023\nCambridge, MA",
+    "img": "assets/experiences/google.png"
+  },
+  {
+    "id": 4,
+    "company": "JP Morgan Chase and Co.",
+    "role": "Software Engineering Intern",
+    "desc": [
+      "Produced a portal for Small Merchant Businesses (SMB’s) to easily access Chase for Business Micro-Services",
+      "Applied firm-wide styles and React components to mirror mainstream designs and functionality"
+    ],
+    "dates": "January 2023-April 2023\nTampa, FL",
+    "img": "assets/experiences/JP-Morgan-Chase-Logo.png"
+  }
+]

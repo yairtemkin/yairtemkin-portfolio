@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "company": "SHPE UF",
+    "role": "Vice President of Technology",
+    "desc": [
+      "Lead 70+ directors to support SHPE members in excelling in their engineering courses and grow in their fields",
+      "Spearheaded UX design and Discord roles, coordinated a Hackathon for 50+ attendees, & led technical workshops",
+      "• Organized competitive design teams, crafting two mobile apps in Kotlin & Swift and 2 Autonomous Vehicles"
+    ],
+    "dates": "May 2023 - Present\nGainesville, FL",
+    "img": "assets/experiences/shpe.png"
+  },
+  {
+    "id": 2,
+    "company": "Kleiner Perkins",
+    "role": "Kleiner Perkins Engineering Fellow",
+    "desc": [
+      "Participated in Kleiner Perkins Engineering fellowship, gaining insight on entrepreneurial and technical innovation in startups"
+    ],
+    "dates": " May 2022 - Present\nSan Francisco, CA",
+    "img": "assets/experiences/kleiner-perkins-logo.png"
+  },
+  {
+    "id": 3,
+    "company": "UF Herbert Wertheim College of Engineering",
+    "role": "Teaching Assistant for DSA and Programming 1",
+    "desc": [
+      "Facilitated the organization and maintenance of SHPE UF’s website by leading our team to develop new features",
+      "Implement industry coding practices to our codebase and team to enhance our development cycles"
+    ],
+    "dates": "Jan 2023 - Present\nGainesville, FL",
+    "img": "assets/experiences/UF-logo.jpeg"
+  },
+  {
+    "id": 3,
+    "company": "SHPE UF",
+    "role": "Scrum Master & Senior Software Engineering Director",
+    "desc": [
+      "Facilitated the organization and maintenance of SHPE UF’s website by leading our team to develop new features",
+      "Implement industry coding practices to our codebase and team to enhance our development cycles"
+    ],
+    "dates": "Sept 2020-Spring May\nGainesville, FL",
+    "img": "assets/experiences/shpe.png"
+  }
+]
